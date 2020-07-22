@@ -15,6 +15,6 @@ These three properties need to be in sync with their counterparts in the service
 This cpplication works with any of the service virtualization backend, which could be one of the following
 applications:
 
-[Node.js server](https://github.com/dhui808/service-virtualization-nodejs)
-[Servlet server](https://github.com/dhui808/service-virtualization-servlet)
+[Node.js server](https://github.com/dhui808/service-virtualization-nodejs) \
+[Servlet server](https://github.com/dhui808/service-virtualization-servlet) \
 [Vert.x server](https://github.com/dhui808/service-virtualization-vertx)
